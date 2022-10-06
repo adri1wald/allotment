@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.17.1](https://github.com/johnwalley/allotment/compare/v1.17.0...v1.17.1) (2022-10-06)
+
+### Bug Fixes
+
+- enable pane content focus on mount ([#404](https://github.com/johnwalley/allotment/issues/404)) ([7443db6](https://github.com/johnwalley/allotment/commit/7443db6e6616274f8ebc9c5d743a2118c9333556))
+
 ## [1.17.0](https://github.com/johnwalley/allotment/compare/v1.16.0...v1.17.0) (2022-08-24)
 
 ### Features
